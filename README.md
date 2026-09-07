@@ -72,7 +72,7 @@ Comparison of Purchase Price and Average Selling Price, including Profit per Uni
 Review of available stock valuation and cost build-up components.
 
 ## Dashboard
-![Excel Dashboard](01_dashboard.png)
+![Excel Dashboard](01_dashboard.png.jpg)
 
 The Excel dashboard provides a consolidated view of the key results through:
 
