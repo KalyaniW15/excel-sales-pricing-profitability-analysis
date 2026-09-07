@@ -64,6 +64,7 @@ Category-level profitability analysis to identify strong contributors and loss-m
 Customer-level analysis to understand contribution to overall profitability.
 
 ### Price Analysis
+![Price Analysis](02_price_analysis.png.jpg)
 
 Comparison of Purchase Price and Average Selling Price, including Profit per Unit and profitability measures.
 
