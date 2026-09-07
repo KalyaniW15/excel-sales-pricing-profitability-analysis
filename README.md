@@ -56,6 +56,7 @@ Analysis of Total Quantity Sold, Total Sales, Total Cost, Total Profit, Gross Ma
 Product-level comparison of sales, cost, total profit, markup, and gross margin.
 
 ### Category Analysis
+![Profitability Analysis](03_profitability_analysis.png.jpg)
 
 Category-level profitability analysis to identify strong contributors and loss-making areas.
 
