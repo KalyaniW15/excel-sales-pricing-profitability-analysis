@@ -56,7 +56,7 @@ Analysis of Total Quantity Sold, Total Sales, Total Cost, Total Profit, Gross Ma
 Product-level comparison of sales, cost, total profit, markup, and gross margin.
 
 ### Category Analysis
-![Profitability Analysis](03_profitability_analysis.png.jpg)
+![Category Analysis](03_category_analysis.png.png)
 
 Category-level profitability analysis to identify strong contributors and loss-making areas.
 
@@ -65,7 +65,7 @@ Category-level profitability analysis to identify strong contributors and loss-m
 Customer-level analysis to understand contribution to overall profitability.
 
 ### Price Analysis
-![Price Analysis](02_price_analysis.png.jpg)
+![Excel Dashboard](01_dashboard.png.png)
 
 Comparison of Purchase Price and Average Selling Price, including Profit per Unit and profitability measures.
 
@@ -74,7 +74,7 @@ Comparison of Purchase Price and Average Selling Price, including Profit per Uni
 Review of available stock valuation and cost build-up components.
 
 ## Dashboard
-![Excel Dashboard](01_dashboard.png.jpg)
+![Excel Dashboard](01_dashboard.png.png)
 
 The Excel dashboard provides a consolidated view of the key results through:
 
